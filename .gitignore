@@ -1,0 +1,17 @@
+ .idea/*
+.DS_Store
+.bowerrc
+.idea/Yii2_cms.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+README
+backend/runtime/*
+frontend/runtime/*
+init.bat
+yii.bat
+yii_test.bat
+codeception.yml
+
+
+
