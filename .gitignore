@@ -1,11 +1,11 @@
- .idea/*
+.idea/
 .DS_Store
 .bowerrc
 .idea/Yii2_cms.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-README
+LICENSE.md
 backend/runtime/*
 frontend/runtime/*
 init.bat
